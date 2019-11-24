@@ -34,12 +34,13 @@
 	}
 
 	.questionario{
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		margin: 0 25%;
-		margin: 14%
+		 font-size: 2rem;
+       text-align: left;
+       margin-top: 10%;
+	}
+
+	.dados{
+		margin-top: 15%
 	}
 
 	.historico{
