@@ -1,0 +1,33 @@
+@media(max-width: 375px) {
+
+	.titulo{
+		font-size: 3rem;
+		text-align: center;	
+	}
+	
+	.figura{
+		margin-top: 10%;
+		border-radius: 10px;
+	}
+
+	.agendamentos{
+		text-align: center;
+		border-style: solid;
+		border-width: 10px;
+		border-radius: 10px;
+		background-color: darkgray;
+		margin: 0 25%;
+	}
+	.barra{
+		margin-top: 10%;
+		display: grid;
+		grid-template-rows: 50px 50px 50px 50px 50px;
+	}
+
+	.dados{
+		text-align: center;
+		background-color: darkgray;
+		margin: 0 25%;
+		margin-top: 16%
+
+}

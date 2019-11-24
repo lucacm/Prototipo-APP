@@ -1,0 +1,39 @@
+@media(max-width: 375px) {
+
+	.titulo{
+		font-size: 3rem;
+		text-align: center;	
+	}
+	
+	.barbearias{
+		text-align: center;
+		border-style: solid;
+		border-width: 10px;
+		border-radius: 10px;
+		background-color: darkgray;
+		margin: 0 25%;
+	}
+	
+	.figura{
+		margin-top: 10%;
+		border-radius: 10px;
+	}
+
+	.links{
+		margin-top: 10%;
+		display: grid;
+		grid-template-rows: 50px 50px 50px 50px 50px;
+	}
+
+	.agendar{
+		text-align: center;
+		border-style: solid;
+		border-width: 10px;
+		border-radius: 10px;
+		background-color: darkgray;
+		margin: 0 25%;
+	}
+
+	
+
+}
