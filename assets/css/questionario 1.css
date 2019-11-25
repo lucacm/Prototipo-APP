@@ -24,6 +24,11 @@
 		background-color: darkgray;
 		margin: 0 25%;
 	}
+	
+	.corpo{
+		background-image: url('background.jpeg');
+
+	}
 
 	.barbearias{
 		text-align: center;
