@@ -1,0 +1,24 @@
+@media(max-width: 375px) {
+
+    .infos{
+        font-size: 2rem;
+        text-align: center;
+
+    }
+
+    .back{
+        text-align: center;
+        margin-top: 30%;
+        border-style: solid;
+        border-radius: 2rem;
+        border-width: 1rem;
+        padding: 1rem;
+        
+    }
+
+    .back-text{
+        font-size: 2rem;
+
+    }
+
+}
