@@ -2,6 +2,10 @@
     .titulo{
 		font-size: 3rem;
 		text-align: center;	
+		border-style: solid;
+		border-width: 0.1rem;
+		background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
+		background-attachment: fixed;
 	}
 	
 	.figura{
@@ -32,20 +36,23 @@
 		margin: 0 25%;
 	}
 
+	.background{
+		background-color: #d5dfe2;
+		background-attachment: scroll;
+		background-image: ;
+	}
+
+
 	.questionario{
 		text-align: center;
-		border-style: solid;
 		font-size: 1.8rem;
-		border-width: 10px;
-		border-radius: 10px;
+		border-style: solid;
+		border-width: 2px;
+		border-radius: 2px;
 		margin: 0 25%;
 		margin: 14%
 	}
 	
-	.corpo{
-		background-image: url('background.jpeg');
-
-	}
 
 	.historico{
 		text-align: center;
