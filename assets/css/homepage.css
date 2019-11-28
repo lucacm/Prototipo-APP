@@ -38,9 +38,9 @@
 }
 
 
-}.titulo:hover {
-	background-color:#ce0100;
-}.titulo:active {
+.titulo:hover {
+	background-color:#ce0100;}
+.titulo:active {
 	position:relative;
 	top:1px;
 	}
