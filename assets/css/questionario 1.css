@@ -54,6 +54,7 @@
 		margin-top: 10%;
 		display: grid;
 		grid-template-rows: 50px 50px 50px 50px 50px;
+		margin-left: 3%;
 	}
 
 	.catalogo{
@@ -171,6 +172,7 @@
 
 	.back{
 		color:white;
+		font-size: 1.5rem;
 
 	}
 
