@@ -33,7 +33,7 @@
 		text-shadow:1px 1px 0px #b23e35;
 		margin-top: 5%;
 		margin-left: 2%;
-		margin-right: 2%;
+		margin-right:2%;
 		background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
 	}
 
@@ -50,6 +50,10 @@
 		border-radius: 10px;
 	}
 
+	.home{
+		color:white;
+		font-size: 1.5rem;
+	}
 	.links{
 		margin-top: 10%;
 		display: grid;

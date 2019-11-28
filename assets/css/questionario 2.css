@@ -116,6 +116,7 @@
 		display: grid;
 		grid-template-rows: 50px 50px 50px 50px 50px;
 	}
+
 	.dados{
 		margin-left: 5%;
        margin-top: 10%;
@@ -128,6 +129,7 @@
 		background: linear-gradient(90deg, rgba(45,40,116,1) 1%, rgba(2,19,22,1) 100%, rgba(1,1,24,0) 100%);
 		background-size: 400px 815px;
 	}
+
 	.historico{
 		text-align: center;
 		border-style: solid;
@@ -166,6 +168,10 @@
         width: 100%;
     }
     
+    .home{
+		color:white;
+		font-size: 1.5rem;
+	}
     /* Style the links inside the navigation bar */
     .navbar a {
         float: left;
