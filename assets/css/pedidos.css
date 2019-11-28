@@ -56,6 +56,13 @@
 		font-size: 1.2rem;
 		background-color: darkgray;
 		margin-top: 20%;
-	}
+    }
+    .agendamento{
+        margin-top: 5%;
+        margin-left: 10%;
+        list-style-type: circle;
+        color: black;
+    
+    }
 
 }
