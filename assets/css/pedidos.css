@@ -103,9 +103,20 @@
 	.dados{
 		font-size: 1.2rem;
 		margin-top: 20%;
+<<<<<<< HEAD
+    }
+    .agendamento{
+        margin-top: 5%;
+        margin-left: 10%;
+        list-style-type: circle;
+        color: black;
+    
+    }
+=======
         margin-left: 4%;
         color:white;
 	}
+>>>>>>> 3f07b84414adb09f0faa8f4da907c1ae560dd595
 
     .back{
         border-style: solid;
