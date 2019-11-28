@@ -36,21 +36,13 @@
 	background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
 }
 
-
-.titulo:hover {
-	background-color:#ce0100;
-}
-.titulo:active {
-	position:relative;
-	top:1px;
+	.titulo:hover {
+		background-color:#ce0100;
 	}
-	
-	
-	.figura{
-		margin-top: 7.5%;
-		border-radius: 10px;
-        padding: 0.75rem;
-	}
+	.titulo:active {
+		position:relative;
+		top:1px;
+		}
 
 	.background{
 		background: rgb(45,40,116);
@@ -62,62 +54,8 @@
 		margin-top: 10%;
 		display: grid;
 		grid-template-rows: 50px 50px 50px 50px 50px;
+		color: white;
 	}
-
-	.catalogo{
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		background-color: darkgray;
-		margin: 0 25%;
-	}
-
-	.barbearias{
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		margin: 0 25%;
-	}
-
-	.questionario{
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		margin: 0 25%;
-		margin: 14%
-	}
-
-	.historico{
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		margin: 0 25%;
-	}
-
-	.back{
-		border-style: solid;
-		border-width: 2px;
-		border-radius: 2px;
-		margin-right: 90%;
-
-	}
-
-	.refazer{
-        font-size: 1.2rem;
-        border-color: skyblue;
-        background-color: aliceblue;
-		text-align: center;
-		border-style: solid;
-		border-width: 10px;
-		border-radius: 10px;
-		margin:  0.25%;
-        max-width: 80%;
-        margin-left: 8%;
-    }
 
     .inicio{
         font-size: 1.2rem;
@@ -137,7 +75,9 @@
         margin: 0.5%;
         padding: 1rem;
         max-width:80%;
-        margin-left: 8%;
+		margin-left: 8%;
+		color: white;
+		font-size: larger;
         
         }
     .anuncio{
@@ -145,13 +85,14 @@
         max-width: 80%;
         font-size: 2rem;
         border-style: solid;
-        border-color: darkorange;
         border-width: 2px;
         margin-left: 10%;
-        margin-top: 5%;
-        background-color: darkorange;
-          
-    }
+		margin-top: 5%;
+		color: white;        
+	}
+	.anuncio-2{
+		color: white;
+	}
     
 }
    
