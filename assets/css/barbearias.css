@@ -1,19 +1,30 @@
 @media(max-width: 375px) {
 
     .lista {
-        width: 200px; /* Set a width if you like */
+        width: 360px;
+         /* Set a width if you like */
     }
         
     .lista a {
-        background-color: #eee; /* Grey background color */
-        color: black; /* Black text color */
+        text-align: center;
+        font-size: 1.5rem;
+        border-style:solid;
+        border-width: 1px;
+        border-radius: 110px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+        margin-left: 12%;
+        width: 250px;
+        color: white;
+        border-color: white;
+        border-width: 5px; /* Black text color */
         display: block; /* Make the links appear below each other */
         padding: 12px; /* Add some padding */
         text-decoration: none; /* Remove underline from links */
     }
         
     .lista a:hover {
-        background-color: #ccc; /* Dark grey background on mouse-over */
+        background-color: white; /* Dark grey background on mouse-over */
     }
     
     .lista a.active {
@@ -46,6 +57,8 @@
         background-color: #ddd;
         color: black;
     }
+
+
   
     /* Add a color to the active/current link */
     .navbar a.active {
@@ -53,39 +66,104 @@
         color: white;
     }
 
+    .background{
+        background: rgb(45,40,116);
+        background: linear-gradient(90deg, rgba(45,40,116,1) 1%, rgba(2,19,22,1) 100%, rgba(1,1,24,0) 100%);
+        background-size: 405px 815px;
+    }
+
     /* Classes */
     .logo{
-        font-size: 3rem;
-		text-align: center;
+        -moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+        box-shadow:inset 0px 1px 0px 0px #f29c93;
+        background-color:#fe1a00;
+        -webkit-border-top-left-radius:20px;
+        -moz-border-radius-topleft:20px;
+        border-top-left-radius:20px;
+        -webkit-border-top-right-radius:20px;
+        -moz-border-radius-topright:20px;
+        border-top-right-radius:20px;
+        -webkit-border-bottom-right-radius:20px;
+        -moz-border-radius-bottomright:20px;
+        border-bottom-right-radius:20px;
+        -webkit-border-bottom-left-radius:20px;
+        -moz-border-radius-bottomleft:20px;
+        border-bottom-left-radius:20px;
+        text-indent:0;
+        border:1px solid #d83526;
+        display:inline-block;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:40px;
+        font-weight:bold;
+        font-style:normal;
+        height:65px;
+        line-height:56px;
+        width:375px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #b23e35;
+        margin-top: 5%;
+        margin-left: 2%;
+        margin-right: 2%;
+        background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
     }
 
     .subtitulo{
-        font-size: 2rem;
-        text-align: left;
-        margin-top: 10%;
+        text-align: center;
+        font-size: 3.5rem;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 210px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+        width: 300px;
+        margin-left: 12%;
+        color: white;
+        border-color: red;
+        border-width: 5px;
     }
 
     .filtro{
-        text-align: center;
+        text-align: left;
         margin-top: 10%;
+
         
     }
-
+    .filtro-name{
+        color:white;
+        text-align: left;
+        font-size: 1.2rem;
+        margin-top: 5%;
+        margin-bottom: -24%;
+        margin-left: 15%;
+    }
     .filtro-text{
-        width: 300px;
-        font-size: 1rem;
-        height: 50px;
+        text-align: left;
+        font-size: 1.5rem;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 110px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+        margin-left: 1%;
+        width: 400px;
+        color: black;
+        border-color: white;
+        border-width: 5px;
     }
 
     /* Regular tamanhos da width */
     .lista{
-        margin-top: 10%;
+        margin-top: 5%;
         list-style-type: upper-roman;
+        color:white;
     }
     
     .item-lista{
         display: list-item;
-        margin-left: 2.5rem;
+        margin-left: 3.5rem;
         margin-top: 10%;
         font-size: 1.5rem;     
     }
