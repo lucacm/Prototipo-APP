@@ -1,8 +1,64 @@
 @media(max-width: 375px) {
 
+
+    .titulo{
+    -moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+    box-shadow:inset 0px 1px 0px 0px #f29c93;
+    background-color:#fe1a00;
+    -webkit-border-top-left-radius:20px;
+    -moz-border-radius-topleft:20px;
+    border-top-left-radius:20px;
+    -webkit-border-top-right-radius:20px;
+    -moz-border-radius-topright:20px;
+    border-top-right-radius:20px;
+    -webkit-border-bottom-right-radius:20px;
+    -moz-border-radius-bottomright:20px;
+    border-bottom-right-radius:20px;
+    -webkit-border-bottom-left-radius:20px;
+    -moz-border-radius-bottomleft:20px;
+    border-bottom-left-radius:20px;
+    text-indent:0;
+    border:1px solid #d83526;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:40px;
+    font-weight:bold;
+    font-style:normal;
+    height:65px;
+    line-height:56px;
+    width:375px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #b23e35;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
+}
+
+
+.titulo:hover {
+    background-color:#ce0100;}
+.titulo:active {
+    position:relative;
+    top:1px;
+    }
+    
+
+    .background{
+        background: rgb(45,40,116);
+        background: linear-gradient(90deg, rgba(45,40,116,1) 1%, rgba(2,19,22,1) 100%, rgba(1,1,24,0) 100%);
+        background-size: 400px 815px;
+    }
+
+
     .infos{
         font-size: 2rem;
         text-align: center;
+        margin-top: 13%;
+        color:white;
 
     }
 
@@ -13,11 +69,15 @@
         border-radius: 2rem;
         border-width: 1rem;
         padding: 1rem;
+        color:white;
+        border-color: purple;
         
     }
 
     .back-text{
         font-size: 2rem;
+        
+
 
     }
 
