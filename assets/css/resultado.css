@@ -184,9 +184,9 @@
 	}
 
 	.agendamento{
-		background-color:#44c767;
+		background-color:#0006ff;
 		border-radius:28px;
-		border:1px solid #18ab29;
+		border:1px solid #0006ff;
 		display:inline-block;
 		cursor:pointer;
 		color:#ffffff;
@@ -200,6 +200,7 @@
 		font-weight:bold;
 		font-style:normal;
 		margin-left: 4%;
+		margin-top: 1.5%;
 
 	}
 	.agendamento:hover {
