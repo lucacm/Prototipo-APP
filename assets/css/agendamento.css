@@ -84,6 +84,7 @@
        text-align: left;
        margin-top: 10%;
        color:white;
+       font-family: 'Zilla Slab Highlight';
 
 	}
 
@@ -121,6 +122,7 @@
 		border-color: purple;
 		font-size: 1.5rem;
 		margin-left: 6%;
+		font-family: Signika Negative;
 	}
 
 	/* Place the navbar at the bottom of the page, and make it stick */
