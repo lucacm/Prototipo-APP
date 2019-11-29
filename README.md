@@ -7,4 +7,3 @@ No mesmo arquivo há somente 1 página para representar as páginas do question�
 Há a possibilidade de pequenas alterações em comparação com o protótipo final sem prejudicar a coerência.
 - **2:** No arquivo **wireframe.pdf** algumas imagens se encontram em tamanho menor devido à problemas com a plataforma *wireframe.cc*, no entanto não prejudica o entendimento do arquivo.
 Há a possibilidade de pequenas alterações em comparação com o protótipo final sem prejudicar a coerência.
-- **3:** **relatorio.pdf** é o arquivo que representa o relatório do teste de daltonismo. No arquivo em questão o relatorio foi feito em relação à paleta de cores ou seja, para cada tipo de daltonismo foi relatado suas reações em referência ao arquivo **paleta.pdf**.

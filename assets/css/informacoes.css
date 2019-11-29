@@ -76,6 +76,7 @@
 
     }
 
+<<<<<<< HEAD
     .voltar {
         background-color:#0006ff;
         border-radius:28px;
@@ -133,6 +134,30 @@
         font-size: 20px;
         margin-top: 4%;
         margin-left: 15%;
+=======
+    .back{
+        margin-top: 10%;
+        display: grid;
+        margin-left: 3%;
+    }
+
+    .back-text{
+        background-color:#0006ff;
+        border-radius:28px;
+        border:1px solid #0006ff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2f6627;
+        text-align: center;
+        font-family:Arial;
+        font-size:24px;
+        font-weight:bold;
+        font-style:normal;
+>>>>>>> 290e29f8f36a14c4a9daf1e30ed9b036b9d34fa3
 
     }
 
