@@ -88,12 +88,25 @@
         border-width: 2px;
         margin-left: 10%;
 		margin-top: 5%;
-		color: white;        
+		color: white;  
+		font-family: Zilla Slab;      
 	}
-	.anuncio-2{
+	.anuncio_2{
 		color: white;
+		font-family: Signika Negative;
 	}
-    
+	.email{
+		color:white;
+		font-family: Signika Negative;
+	}
+    .pass{
+		color:white;
+		font-family: Signika Negative;
+	}
+	.deseja{
+		color:white;
+		font-family: Signika Negative;
+	}
 }
    
     
