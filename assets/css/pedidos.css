@@ -1,5 +1,39 @@
 @media(max-width: 375px) {
 
+
+    .lista {
+        width: 360px;
+         /* Set a width if you like */
+    }
+        
+    .lista a {
+        background-color:#0006ff;
+        border-radius:25px;
+        border:1px solid #0006ff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2f6627;
+        text-align: center;
+        font-family:Arial;
+        font-size:24px;
+        font-weight:bold;
+        font-style:normal;
+
+    }
+        
+    .lista a:hover {
+        background-color: white; /* Dark grey background on mouse-over */
+    }
+    
+    .lista a.active {
+        background-color: #4CAF50; /* Add a green color to the "active/current" link */
+        color: white;
+    }
+
 	.titulo{
     -moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
     -webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
@@ -106,13 +140,18 @@
         color:white;
 
     }
-    .agendamento{
-        margin-top: 5%;
-        margin-left: 10%;
-        list-style-type: circle;
-        color: black;
+    .lista{
+        margin-top: 10%;
+        list-style-type: upper-roman;
+        color:white;
+    }
     
-	}
+    .item-lista{
+        display: list-item;
+        margin-left: 3.5rem;
+        margin-top: 5%;
+        font-size: 1.5rem;     
+    }
 
 
     .back{
