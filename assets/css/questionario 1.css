@@ -182,11 +182,23 @@
 
 	}
 
-	.selecionar{
+	.selecionar1{
 		margin-left: 5%;
 		color:white;
-		font-size: 20px
+		font-size: 18px
 	}
-	
+	.selecionar2{
+		margin-left: 5%;
+		color:white;
+		font-size: 18px;
+		margin-top: 10%;
+	}
+
+	.selecionar3{
+		margin-left: 5%;
+		color:white;
+		font-size: 18px;
+		margin-top: 10%;
+	}
 
 }

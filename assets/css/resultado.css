@@ -20,7 +20,7 @@
 		border:1px solid #d83526;
 		display:inline-block;
 		color:#ffffff;
-		font-family:Arial;
+		font-family:Zilla slab;
 		font-size:40px;
 		font-weight:bold;
 		font-style:normal;
@@ -106,6 +106,7 @@
 		color: white;
 		font-size: 2rem;
 		margin-left: 5%;
+		font-family: Zilla slab;
 	}
 	
     .texto{
@@ -114,7 +115,8 @@
         padding: 1rem;
         max-width:99%;
         color: white;
-        font-size: 1.5rem
+        font-size: 1.5rem;
+        font-family:Zilla slab ;
         
         }
     .anuncio{
@@ -162,12 +164,11 @@
 		display:inline-block;
 		cursor:pointer;
 		color:#ffffff;
-		font-family:Arial;
+		font-family:Zilla slab;
 		padding:16px 31px;
 		text-decoration:none;
 		text-shadow:0px 1px 0px #2f6627;
 		text-align: center;
-		font-family:Arial;
 		font-size:24px;
 		font-weight:bold;
 		font-style:normal;
@@ -190,12 +191,11 @@
 		display:inline-block;
 		cursor:pointer;
 		color:#ffffff;
-		font-family:Arial;
 		padding:16px 31px;
 		text-decoration:none;
 		text-shadow:0px 1px 0px #2f6627;
 		text-align: center;
-		font-family:Arial;
+		font-family:Zilla slab;
 		font-size:24px;
 		font-weight:bold;
 		font-style:normal;

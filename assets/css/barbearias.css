@@ -94,7 +94,7 @@
         border:1px solid #d83526;
         display:inline-block;
         color:#ffffff;
-        font-family:Arial;
+        font-family:Signika Negativa;
         font-size:40px;
         font-weight:bold;
         font-style:normal;
@@ -123,6 +123,7 @@
         color: white;
         border-color: red;
         border-width: 5px;
+        font-family: Zilla slab;
     }
 
     .filtro{
@@ -145,6 +146,7 @@
         color: black;
         border-color: white;
         border-width: 5px;
+        font-family: Signika negativa;
     }
 
     /* Regular tamanhos da width */
