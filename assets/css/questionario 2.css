@@ -21,7 +21,7 @@
 		border:1px solid #d83526;
 		display:inline-block;
 		color:#ffffff;
-		font-family:Arial;
+		font-family:Zilla slab;
 		font-size:40px;
 		font-weight:bold;
 		font-style:normal;
@@ -62,7 +62,7 @@
 		text-decoration:none;
 		text-shadow:0px 1px 0px #2f6627;
 		text-align: center;
-		font-family:Arial;
+		font-family:Signika negativa;
 		font-size:24px;
 		font-weight:bold;
 		font-style:normal;
@@ -108,6 +108,7 @@
 		border-color: red;
 		border-width: 5px;
 
+
 	}
 	
 	.links{
@@ -122,6 +123,7 @@
        margin-top: 10%;
        font-size: 1.5rem;
        color: white;
+       font-family: Signika negativa;
    }
 
 	.background{
@@ -155,7 +157,8 @@
 		margin-left: 5%;
 		margin-top: 7%;
 		color:white;
-		font-size: 20px
+		font-size: 20px;
+		font-family: Signika negativa;
 
 	}
 

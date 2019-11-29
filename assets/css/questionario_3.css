@@ -20,7 +20,7 @@
 		border:1px solid #d83526;
 		display:inline-block;
 		color:#ffffff;
-		font-family:Arial;
+		font-family:Zilla slab;
 		font-size:40px;
 		font-weight:bold;
 		font-style:normal;
@@ -145,7 +145,7 @@
 		text-decoration:none;
 		text-shadow:0px 1px 0px #2f6627;
 		text-align: center;
-		font-family:Arial;
+		font-family:Signika negativa;
 		font-size:24px;
 		font-weight:bold;
 		font-style:normal;
@@ -180,6 +180,7 @@
 		color: white;
 		border-color: red;
 		border-width: 5px;
+		font-family: Signika negativa;
 
 	}
 
