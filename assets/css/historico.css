@@ -19,6 +19,21 @@
         background-color: #777;
     }
 
+    .historico{
+        text-align: center;
+        font-size: 3.5rem;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 210px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+        width: 300px;
+        margin-left: 12%;
+        color: white;
+        border-color: red;
+        border-width: 5px;
+
+    }
     /* Place the navbar at the bottom of the page, and make it stick */
     .navbar {
         background-color: #333;
@@ -99,9 +114,10 @@
     
 
     .descricao{
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         margin-top: 10%;
         color:white;
+        margin-left: 5%;
     }
 
     .background{

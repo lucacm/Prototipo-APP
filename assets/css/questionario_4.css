@@ -81,7 +81,15 @@
 
 	.selecionar{
 		margin-left: 5%;
-		margin-top: 7%;
+		margin-top: 5%;
+		color:white;
+		font-size: 20px
+
+	}
+
+	.aceito{
+		margin-left: 0%;
+		margin-top: 5%;
 		color:white;
 		font-size: 20px
 

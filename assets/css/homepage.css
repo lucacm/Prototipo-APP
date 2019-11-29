@@ -289,8 +289,8 @@
 
 	.background{
 		background: rgb(45,40,116);
-		background: linear-gradient(90deg, rgba(45,40,116,1) 1%, rgba(2,19,22,1) 100%, rgba(1,1,24,0) 100%);
-		background-size: 400px 815px;
+		background: linear-gradient(0deg, rgba(45,40,116,1) 1%, rgba(2,19,22,1) 100%, rgba(1,1,24,0) 100%);
+		background-size: 375px 815px;
 	}
 	.navbar {
         background-color: #333;
