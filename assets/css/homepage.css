@@ -37,7 +37,17 @@
 	background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
 }
 
+.img{
+	margin-left: 41.5%;
+	width: 90px;
+	height: 110px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 2px;
+	margin-bottom: 0%;
+	margin-top: 20%;
 
+}
 .titulo:hover {
 	background-color:#ce0100;}
 .titulo:active {
@@ -297,7 +307,9 @@
         overflow: hidden;
         position: fixed;
         bottom: 0;
-        width: 100%;}
+        width: 100%;
+        height: 8%;
+    }
 	
 	.navbar a {
         float: left;
