@@ -37,7 +37,12 @@
 	background-image: url('https://media.giphy.com/media/26BRyql7J3iOx875u/source.gif');
 }
 
-
+.img{
+	position: relative;
+	margin-left: 60%;
+	width: 30px;
+	height: 40px;
+}
 .titulo:hover {
 	background-color:#ce0100;}
 .titulo:active {
